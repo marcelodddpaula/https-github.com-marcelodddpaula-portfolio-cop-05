@@ -37,10 +37,10 @@ export const IMAGES: ImageItem[] = [
 ];
 
 export const HERO_IMAGES = [
-  'portfolio/id431',
-  'portfolio/id532',
-  'portfolio/id559',
-  'portfolio/id582'
+  'testeportfolio-01/yztwjcwrd8v3c4qgetpn',
+  'cld-sample-2',
+  'portfolio/letras-alto-relevo/caracol_ (1)',
+  'IMG-20150519-WA0002_g2yvbs'
 ];
 
 export const CONTACT_INFO = {
